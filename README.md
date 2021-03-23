@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pratik-D-Bandre
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer Engineering
+- 👋 Hi, I’m Pratik Bandre.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Computer Engineering.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
