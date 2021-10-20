@@ -2,7 +2,7 @@
 , I'm Pratik Bandre</h1>
 <h3 align="center">I'm Third Year Computer Engineering Student at College Of Engineering, Pune</h3>
 
-- 🌱 I’m currently learning **Competitive Programming.**
+- 🌱 I’m currently learning **Android Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
